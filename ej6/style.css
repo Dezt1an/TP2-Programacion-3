@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(0, 66, 153);
+}
+.body-div{
+    padding: 10px;
+    background-color: rgb(211, 228, 243);
+    width: 300px;
+}
+
+input.correcto {
+  border-color: green;
+}
+
+input.incorrecto {
+  border-color: red;
+}
+
+.error {
+  color: red;
+  font-size: 0.9em;
+  margin-bottom: 10px;
+  display: block;
+}
+
+#resultado {
+  font-weight: bold;
+  margin-top: 15px;
+}
